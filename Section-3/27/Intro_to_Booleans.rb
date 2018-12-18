@@ -1,6 +1,7 @@
-p 5 < 10
+age = 25
 
-p 10 > 12
+handsome = true
+stupid = false
 
-p true
-p false
+p handsome
+p stupid
