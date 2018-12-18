@@ -1,11 +1,6 @@
-p 10 == 10
-p 10 == 20
+p 5 == 5.0
+p 5.0.class
 
-a = 10
-b = 5
-c = 10
+p 5.to_f == 5.0.to_f
+p 5.to_i == 5.0.to_i
 
-p a == c
-p a == b
-p a == c
-p c == a
