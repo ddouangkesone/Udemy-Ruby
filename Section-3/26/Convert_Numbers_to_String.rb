@@ -1,7 +1,6 @@
-number - 10
+pi = 3.14
 
-p number.class
-number.to_s.class
+p pi.to_i
 
-p number.to_f
-p number.to_f.class
+p pi.to_s
+p pi.to_s.class
