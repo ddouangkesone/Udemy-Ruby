@@ -11,4 +11,6 @@
 
 # puts uppercase
 
-p "Dan".downcase
+# p "Dan".downcase
+
+# p "dAniEl".swapcase
